@@ -1,0 +1,297 @@
+{
+  "checked": "2026-11-20",
+  "company": {
+    "name": "Fällgrens Finsnickeri",
+    "legal": "Fällgrens Finsnickeri",
+    "registered_name": "Fällgren, Fredrik",
+    "legal_form": "Enskild näringsverksamhet",
+    "person": "Fredrik Fällgren",
+    "owner": "Fredrik Fällgren",
+    "phone": "076-173 56 08",
+    "tel": "+46761735608",
+    "email": "fredrik@fallgrens.se",
+    "street": "Kulltorp 122",
+    "postcode": "388 91",
+    "city": "Vassmolösa",
+    "address": "Kulltorp 122, 388 91 Vassmolösa",
+    "areas": [
+      "Kalmar",
+      "Öland"
+    ],
+    "region": "Kalmar län",
+    "shop_url": "https://fallgrens.se/shop/",
+    "source_url": "https://fallgrens.se/kontakt/"
+  },
+  "source_pages": [
+    {
+      "file": "research/pages/home.html",
+      "url": "https://fallgrens.se/",
+      "checked": "2026-11-20",
+      "bytes": 263511,
+      "sha256": "12b8570c072c354a3cce93aba2571c9a4a3dfce9dc8a84d45486bae69a33e283"
+    },
+    {
+      "file": "research/pages/byggservice.html",
+      "url": "https://fallgrens.se/byggservice/",
+      "checked": "2026-11-20",
+      "bytes": 269170,
+      "sha256": "8b0d9c1ff6982a80e0e42904e1618d1b5457ef2b7e2bc1392bd57e96cc4114f1"
+    },
+    {
+      "file": "research/pages/specialsnickerier.html",
+      "url": "https://fallgrens.se/specialsnickerier/",
+      "checked": "2026-11-20",
+      "bytes": 267119,
+      "sha256": "4ac14c55bb16ddbc9b3cd8d802deb063c29e8f21bfa33b7e4ba633fcb8c46026"
+    },
+    {
+      "file": "research/pages/mobler-inredning.html",
+      "url": "https://fallgrens.se/mobler-inredning/",
+      "checked": "2026-11-20",
+      "bytes": 265877,
+      "sha256": "32f6c48eddf9b1f74dc0c0ed57812f8c8612b19ab23d95d90df7a93a42466dfa"
+    },
+    {
+      "file": "research/pages/om-mig.html",
+      "url": "https://fallgrens.se/om-mig/",
+      "checked": "2026-11-20",
+      "bytes": 255193,
+      "sha256": "880f6b824a53ecad7fce30531239182c88a606df3a8c510c4b0bb739b1e02849"
+    },
+    {
+      "file": "research/pages/kontakt.html",
+      "url": "https://fallgrens.se/kontakt/",
+      "checked": "2026-11-20",
+      "bytes": 258512,
+      "sha256": "c0dbfc802a501677a5e7642d0cc357397b6121677d7a32029c4a35f5ce961f5c"
+    },
+    {
+      "file": "research/pages/campervan.html",
+      "url": "https://fallgrens.se/elementor-1746/",
+      "checked": "2026-11-20",
+      "bytes": 262093,
+      "sha256": "ebfb498fdaf293bc997f5f5a864edc421b97bbd6c57ff611bac1eeb4972f7040"
+    },
+    {
+      "file": "research/pages/shop.html",
+      "url": "https://fallgrens.se/shop/",
+      "checked": "2026-11-20",
+      "bytes": 258329,
+      "sha256": "7c42f8028e8d1180e109b253b07028435745aee55fcbeb21fd868a3914643f67"
+    },
+    {
+      "file": "research/pages/produkt-pokerset.html",
+      "url": "https://fallgrens.se/produkt/pokerset/",
+      "checked": "2026-11-20",
+      "bytes": 243588,
+      "sha256": "d38eb2dfeb4e9877fb29ae0d608af994ec698e441efe1c8ef47063a77cf5a0ef"
+    },
+    {
+      "file": "research/pages/produkt-presentforpackning.html",
+      "url": "https://fallgrens.se/produkt/presentforpackning/",
+      "checked": "2026-11-20",
+      "bytes": 239742,
+      "sha256": "d961f3b78b3a214adcea2fafd2bb4a15c9f8291d03e270bf626d862a92ec52e8"
+    },
+    {
+      "file": "research/pages/produkt-skarbrada.html",
+      "url": "https://fallgrens.se/produkt/skarbrada/",
+      "checked": "2026-11-20",
+      "bytes": 245885,
+      "sha256": "c21fdc5ec2c42d964696619930738d56697cca5d5864dd8d720ea25ea2e66e62"
+    },
+    {
+      "file": "research/pages/produkt-serveringsbrada.html",
+      "url": "https://fallgrens.se/produkt/serveringsbrada/",
+      "checked": "2026-11-20",
+      "bytes": 239990,
+      "sha256": "540db8597905d2ca81c0e9a4a362e332bc895c1a9bd9ab5b314bde519922be56"
+    },
+    {
+      "file": "research/pages/produkt-serveringsbrada-small.html",
+      "url": "https://fallgrens.se/produkt/serveringsbrada-small/",
+      "checked": "2026-11-20",
+      "bytes": 240031,
+      "sha256": "c1294b2a150b37a3f0eef886af83b71903d71d3fcde35c04d6f79b914102c1db"
+    },
+    {
+      "file": "research/pages/produkt-serveringsbrada-medium.html",
+      "url": "https://fallgrens.se/produkt/serveringsbrada-medium/",
+      "checked": "2026-11-20",
+      "bytes": 240101,
+      "sha256": "4322223c4d469e189f5bafefe759b5a40e771e8d4302f2fabbd2cc88573e794a"
+    },
+    {
+      "file": "research/pages/produkt-stol.html",
+      "url": "https://fallgrens.se/produkt/stol/",
+      "checked": "2026-11-20",
+      "bytes": 245416,
+      "sha256": "01f8b8b8ae033e2bc34fc4f00c57083483d2c116f800ab33655020bb9cff44ff"
+    },
+    {
+      "file": "research/pages/produkt-klubba.html",
+      "url": "https://fallgrens.se/produkt/klubba/",
+      "checked": "2026-11-20",
+      "bytes": 240071,
+      "sha256": "1ca6bfcb7613f0cbbcc19a1d59b2ad6ec8691bec0bfd76c9248df22d5a9975b4"
+    }
+  ],
+  "verification": {
+    "primary_company": "Originalets aktuella om-/kontaktsidor kopplar FredrikFällgren till verksamheten.",
+    "independent_identity": "Ratsit och Bolagsfakta sök-/sidtext identifierar Fällgren,Fredrik som enskild näringsidkare, telefon0761735608 ochadressKulltorp122,38891Vassmolösa. Personligt orgnummer utelämnat.",
+    "education": "Utbildad finsnickare,TibroHantverksakademi enligt egen aktuellom-sida. Ingen examensperiod eller fristående certifieringsklass påstås.",
+    "postcode_resolution": {
+      "contact_page": "38891",
+      "footer": "38894",
+      "corroboration": "Ratsit,Hitta,Merinfo matchar38891",
+      "display": "38891"
+    }
+  },
+  "products_observed": [
+    {
+      "id": "pokerset",
+      "title": "Pokerset",
+      "description": "Ett handgjort pokerset i trä från Fällgrens sortiment.",
+      "summary": "Ett handgjort pokerset i trä från Fällgrens sortiment.",
+      "category": "Spel & gåvor",
+      "original_url": "https://fallgrens.se/produkt/pokerset/",
+      "source_url": "https://fallgrens.se/produkt/pokerset/",
+      "observed_price": 2995,
+      "observed_price_text": "2 995 kr inkl. moms",
+      "source_stock_text": "Beställningsvara!",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "presentforpackning",
+      "title": "Presentförpackning",
+      "description": "En presentförpackning som kan få en personlig prägel med lasergravyr.",
+      "summary": "En presentförpackning som kan få en personlig prägel med lasergravyr.",
+      "category": "Gåvor & detaljer",
+      "original_url": "https://fallgrens.se/produkt/presentforpackning/",
+      "source_url": "https://fallgrens.se/produkt/presentforpackning/",
+      "observed_price": 400,
+      "observed_price_text": "400 kr inkl. moms",
+      "source_stock_text": "Lagervara!",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "skarbrada",
+      "title": "Skärbräda",
+      "description": "Skärbräda med möjlighet till lasergravyr efter dina önskemål.",
+      "summary": "Skärbräda med möjlighet till lasergravyr efter dina önskemål.",
+      "category": "Kök & servering",
+      "original_url": "https://fallgrens.se/produkt/skarbrada/",
+      "source_url": "https://fallgrens.se/produkt/skarbrada/",
+      "observed_price": 850,
+      "observed_price_text": "850 kr inkl. moms",
+      "source_stock_text": "Lagervara!",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "serveringsbrada",
+      "title": "Serveringsbräda",
+      "description": "Serveringsbräda med rundad form och handtag.",
+      "summary": "Serveringsbräda med rundad form och handtag.",
+      "category": "Kök & servering",
+      "original_url": "https://fallgrens.se/produkt/serveringsbrada/",
+      "source_url": "https://fallgrens.se/produkt/serveringsbrada/",
+      "observed_price": 900,
+      "observed_price_text": "900 kr inkl. moms",
+      "source_stock_text": "Lagervara!",
+      "source_dimensions_text": "110 × 25",
+      "dimension_unit_verified": false,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "serveringsbrada-small",
+      "title": "Serveringsbräda small",
+      "description": "Den mindre serveringsbrädan i originalsortimentet.",
+      "summary": "Den mindre serveringsbrädan i originalsortimentet.",
+      "category": "Kök & servering",
+      "original_url": "https://fallgrens.se/produkt/serveringsbrada-small/",
+      "source_url": "https://fallgrens.se/produkt/serveringsbrada-small/",
+      "observed_price": 550,
+      "observed_price_text": "550 kr inkl. moms",
+      "source_stock_text": "",
+      "source_dimensions_text": "15 × 25",
+      "dimension_unit_verified": false,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "serveringsbrada-medium",
+      "title": "Serveringsbräda medium",
+      "description": "Serveringsbräda i originalsortimentets mellanstorlek.",
+      "summary": "Serveringsbräda i originalsortimentets mellanstorlek.",
+      "category": "Kök & servering",
+      "original_url": "https://fallgrens.se/produkt/serveringsbrada-medium/",
+      "source_url": "https://fallgrens.se/produkt/serveringsbrada-medium/",
+      "observed_price": 700,
+      "observed_price_text": "700 kr inkl. moms",
+      "source_stock_text": "Lagervara!",
+      "source_dimensions_text": "40 × 25",
+      "dimension_unit_verified": false,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "stol",
+      "title": "Stol",
+      "description": "Stol från Fällgrens småskaliga möbelsortiment.",
+      "summary": "Stol från Fällgrens småskaliga möbelsortiment.",
+      "category": "Möbler",
+      "original_url": "https://fallgrens.se/produkt/stol/",
+      "source_url": "https://fallgrens.se/produkt/stol/",
+      "observed_price": 11995,
+      "observed_price_text": "11 995 kr inkl. moms",
+      "source_stock_text": "Beställningsvara!",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "klubba",
+      "title": "Klubba",
+      "description": "Ordförandeklubba i trä från originalsortimentet.",
+      "summary": "Ordförandeklubba i trä från originalsortimentet.",
+      "category": "Gåvor & detaljer",
+      "original_url": "https://fallgrens.se/produkt/klubba/",
+      "source_url": "https://fallgrens.se/produkt/klubba/",
+      "observed_price": 995,
+      "observed_price_text": "995 kr inkl. moms",
+      "source_stock_text": "",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    }
+  ],
+  "source_instagram_raw": "https://www.instagram.com/17841408654880543/",
+  "source_instagram_verified_public_username": false,
+  "limits": {
+    "identity": "Fällgrens Finsnickeri är offentligt verksamhetsnamn. Registeridentifieringen gäller enskild näringsidkare Fällgren,Fredrik; inget personligt organisationsnummer eller födelsedatum publiceras.",
+    "postcode": "Använd38891:ordinarie kontaktsida +Ratsit/Hitta. Footer38894 är motstridig och förs inte över.",
+    "socials": "Originalets Instagramlänk använder ett numeriskt kontoid, inte ett verifierat publikt användarnamn. Inget nytt socialt profilnamn hittas på.",
+    "pricing": "Priser och lagertext finns endast som källobservation i produktmetadata och ska inte användas som nya löften. Original JSON-LD säger InStock även när synlig text säger Beställningsvara.",
+    "excluded": "Ingen ROT-sats, intygad behörighet, certifiering, garanti, svarstid, gratis offert, kundomdöme eller påhittat projekt."
+  }
+}

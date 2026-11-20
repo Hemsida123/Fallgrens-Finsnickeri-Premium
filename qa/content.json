@@ -1,0 +1,328 @@
+{
+  "company": {
+    "name": "Fällgrens Finsnickeri",
+    "legal": "Fällgrens Finsnickeri",
+    "registered_name": "Fällgren, Fredrik",
+    "legal_form": "Enskild näringsverksamhet",
+    "person": "Fredrik Fällgren",
+    "owner": "Fredrik Fällgren",
+    "phone": "076-173 56 08",
+    "tel": "+46761735608",
+    "email": "fredrik@fallgrens.se",
+    "street": "Kulltorp 122",
+    "postcode": "388 91",
+    "city": "Vassmolösa",
+    "address": "Kulltorp 122, 388 91 Vassmolösa",
+    "areas": [
+      "Kalmar",
+      "Öland"
+    ],
+    "region": "Kalmar län",
+    "shop_url": "https://fallgrens.se/shop/",
+    "source_url": "https://fallgrens.se/kontakt/"
+  },
+  "about": {
+    "heading": "En idé. Ett material. Ett hantverk.",
+    "intro": "Jag heter Fredrik Fällgren och driver Fällgrens Finsnickeri i Kalmar län. Här tillverkar jag skräddarsydda produkter, möbler och inredning i liten skala.",
+    "paragraphs": [
+      "Jag är utbildad finsnickare vid Tibro Hantverksakademi. Intresset för trä och möbler följer med både i min egen formgivning och när jag arbetar med kunders idéer.",
+      "Varje projekt har sina förutsättningar. Jag vill förstå funktionen, uttrycket och platsen innan lösningen tar form.",
+      "Verksamheten rymmer också byggservice och specialsnickerier för hem och företag, med Kalmar och Öland som utgångspunkt."
+    ],
+    "source_url": "https://fallgrens.se/om-mig/"
+  },
+  "services": [
+    {
+      "id": "byggservice",
+      "title": "Byggservice",
+      "summary": "Nybyggnation, tillbyggnad och renovering för privatpersoner och företag.",
+      "paragraphs": [
+        "Vi hjälper till med byggnadsarbeten i både nya och befintliga miljöer. Uppdraget kan vara en tillbyggnad, en renovering eller en del av ett större projekt.",
+        "För hemmet kan det handla om tak, fönster, kök eller golv. För företag arbetar vi även med underhåll och renoveringar.",
+        "Beskriv vad du vill göra och var arbetet finns. Vid större uppdrag stämmer vi av omfattningen och hur samarbetspartners kan bidra."
+      ],
+      "bullets": [
+        "Nyproduktion och tillbyggnad",
+        "Renovering, kök, fönster och golv",
+        "Byggservice för hem och företag"
+      ],
+      "source_url": "https://fallgrens.se/byggservice/"
+    },
+    {
+      "id": "specialsnickerier",
+      "title": "Specialsnickerier",
+      "summary": "När lösningen behöver ritas och tillverkas för just ditt projekt.",
+      "paragraphs": [
+        "Ett särskilt utrymme eller en egen idé kan behöva en lösning som inte finns färdig. Jag hjälper till från ritning och planering till val av träslag och utförande.",
+        "Det kan vara en disk, en bänk, ett skåp eller inredning för en butik, ett kontor eller en utställning. Ditt behov blir utgångspunkten.",
+        "Pris och omfattning bestäms för det enskilda uppdraget. Berätta om din idé, så går vi vidare med ett underlag som passar den."
+      ],
+      "bullets": [
+        "Ritning, planering och materialval",
+        "Specialskåp, garderober, diskar och bänkar",
+        "Inredning för hem och verksamheter"
+      ],
+      "source_url": "https://fallgrens.se/specialsnickerier/"
+    },
+    {
+      "id": "mobler-inredning",
+      "title": "Möbler & inredning",
+      "summary": "Småskalig tillverkning av möbler och inredning efter dina önskemål.",
+      "paragraphs": [
+        "Jag tillverkar möbler och inredning med utgångspunkt i varje nytt projekt. En egen formidé eller en funktion som saknas kan vara början.",
+        "Kök, platsbyggda garderober, badrumsinredning och mindre inredningsdetaljer hör till arbetet. I sortimentet finns också bland annat skär- och serveringsbrädor.",
+        "För det specialtillverkade finns inget generellt standardpris. Berätta vad du vill få byggt, så pratar vi om material, utformning och omfattning."
+      ],
+      "bullets": [
+        "Möbler och köksinredning",
+        "Platsbyggd förvaring och badrumsinredning",
+        "Inredningsdetaljer i småskalig produktion"
+      ],
+      "source_url": "https://fallgrens.se/mobler-inredning/"
+    },
+    {
+      "id": "campervan-haven",
+      "title": "Campervan Haven",
+      "summary": "Planering, verkstadsplats och hjälp för ditt campervanprojekt.",
+      "paragraphs": [
+        "Campervan Haven är en plats att planera ditt vanbygge och diskutera vilken hjälp du behöver. Vi börjar med projektet, tidsplanen och vad du vill göra själv.",
+        "Verkstadsplats, verktyg, material och behov av yrkeshjälp går vi igenom tillsammans. Förberedelserna behöver passa både bilen och det arbete som ska göras.",
+        "Kontakta Fredrik för aktuella förutsättningar, tillgång, priser och villkor. En förfrågan här reserverar ingen plats eller tid."
+      ],
+      "bullets": [
+        "Planeringssamtal om ditt projekt",
+        "Verkstadsplats efter överenskommelse",
+        "Material och hjälp utifrån behovet"
+      ],
+      "source_url": "https://fallgrens.se/elementor-1746/"
+    }
+  ],
+  "products": [
+    {
+      "id": "pokerset",
+      "title": "Pokerset",
+      "description": "Ett handgjort pokerset i trä från Fällgrens sortiment.",
+      "summary": "Ett handgjort pokerset i trä från Fällgrens sortiment.",
+      "category": "Spel & gåvor",
+      "original_url": "https://fallgrens.se/produkt/pokerset/",
+      "source_url": "https://fallgrens.se/produkt/pokerset/",
+      "observed_price": 2995,
+      "observed_price_text": "2 995 kr inkl. moms",
+      "source_stock_text": "Beställningsvara!",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "presentforpackning",
+      "title": "Presentförpackning",
+      "description": "En presentförpackning som kan få en personlig prägel med lasergravyr.",
+      "summary": "En presentförpackning som kan få en personlig prägel med lasergravyr.",
+      "category": "Gåvor & detaljer",
+      "original_url": "https://fallgrens.se/produkt/presentforpackning/",
+      "source_url": "https://fallgrens.se/produkt/presentforpackning/",
+      "observed_price": 400,
+      "observed_price_text": "400 kr inkl. moms",
+      "source_stock_text": "Lagervara!",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "skarbrada",
+      "title": "Skärbräda",
+      "description": "Skärbräda med möjlighet till lasergravyr efter dina önskemål.",
+      "summary": "Skärbräda med möjlighet till lasergravyr efter dina önskemål.",
+      "category": "Kök & servering",
+      "original_url": "https://fallgrens.se/produkt/skarbrada/",
+      "source_url": "https://fallgrens.se/produkt/skarbrada/",
+      "observed_price": 850,
+      "observed_price_text": "850 kr inkl. moms",
+      "source_stock_text": "Lagervara!",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "serveringsbrada",
+      "title": "Serveringsbräda",
+      "description": "Serveringsbräda med rundad form och handtag.",
+      "summary": "Serveringsbräda med rundad form och handtag.",
+      "category": "Kök & servering",
+      "original_url": "https://fallgrens.se/produkt/serveringsbrada/",
+      "source_url": "https://fallgrens.se/produkt/serveringsbrada/",
+      "observed_price": 900,
+      "observed_price_text": "900 kr inkl. moms",
+      "source_stock_text": "Lagervara!",
+      "source_dimensions_text": "110 × 25",
+      "dimension_unit_verified": false,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "serveringsbrada-small",
+      "title": "Serveringsbräda small",
+      "description": "Den mindre serveringsbrädan i originalsortimentet.",
+      "summary": "Den mindre serveringsbrädan i originalsortimentet.",
+      "category": "Kök & servering",
+      "original_url": "https://fallgrens.se/produkt/serveringsbrada-small/",
+      "source_url": "https://fallgrens.se/produkt/serveringsbrada-small/",
+      "observed_price": 550,
+      "observed_price_text": "550 kr inkl. moms",
+      "source_stock_text": "",
+      "source_dimensions_text": "15 × 25",
+      "dimension_unit_verified": false,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "serveringsbrada-medium",
+      "title": "Serveringsbräda medium",
+      "description": "Serveringsbräda i originalsortimentets mellanstorlek.",
+      "summary": "Serveringsbräda i originalsortimentets mellanstorlek.",
+      "category": "Kök & servering",
+      "original_url": "https://fallgrens.se/produkt/serveringsbrada-medium/",
+      "source_url": "https://fallgrens.se/produkt/serveringsbrada-medium/",
+      "observed_price": 700,
+      "observed_price_text": "700 kr inkl. moms",
+      "source_stock_text": "Lagervara!",
+      "source_dimensions_text": "40 × 25",
+      "dimension_unit_verified": false,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "stol",
+      "title": "Stol",
+      "description": "Stol från Fällgrens småskaliga möbelsortiment.",
+      "summary": "Stol från Fällgrens småskaliga möbelsortiment.",
+      "category": "Möbler",
+      "original_url": "https://fallgrens.se/produkt/stol/",
+      "source_url": "https://fallgrens.se/produkt/stol/",
+      "observed_price": 11995,
+      "observed_price_text": "11 995 kr inkl. moms",
+      "source_stock_text": "Beställningsvara!",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    },
+    {
+      "id": "klubba",
+      "title": "Klubba",
+      "description": "Ordförandeklubba i trä från originalsortimentet.",
+      "summary": "Ordförandeklubba i trä från originalsortimentet.",
+      "category": "Gåvor & detaljer",
+      "original_url": "https://fallgrens.se/produkt/klubba/",
+      "source_url": "https://fallgrens.se/produkt/klubba/",
+      "observed_price": 995,
+      "observed_price_text": "995 kr inkl. moms",
+      "source_stock_text": "",
+      "source_dimensions_text": "",
+      "dimension_unit_verified": null,
+      "publish_price": false,
+      "publish_stock": false,
+      "notes": "Källans pris och lagermarkering är en observation 2026-11-20, inte ett nytt erbjudande. Aktuellt köp sker i originalwebbshoppen eller efter kontakt."
+    }
+  ],
+  "catalogue": {
+    "heading": "Från verkstaden.",
+    "intro": "Ett urval ur Fällgrens originalsortiment. Fråga om en produkt eller gå vidare till originalwebbshoppen för aktuella köp- och leveransvillkor.",
+    "original_url": "https://fallgrens.se/shop/",
+    "inquiry_note": "Förfrågningslistan samlar produkter att fråga om. Den är ingen varukorg för köp och skapar ingen beställning.",
+    "price_policy": "Inga nya priser eller lagersaldon utlovas. Aktuellt pris och tillgänglighet kontrolleras i originalwebbshoppen eller med Fredrik."
+  },
+  "campervan": {
+    "title": "Campervan Haven",
+    "intro": "En verkstadsplats och ett planerat sammanhang för ditt vanbygge.",
+    "paragraphs": [
+      "Campervan Haven är en plats att planera ditt vanbygge och diskutera vilken hjälp du behöver. Vi börjar med projektet, tidsplanen och vad du vill göra själv.",
+      "Verkstadsplats, verktyg, material och behov av yrkeshjälp går vi igenom tillsammans. Förberedelserna behöver passa både bilen och det arbete som ska göras.",
+      "Kontakta Fredrik för aktuella förutsättningar, tillgång, priser och villkor. En förfrågan här reserverar ingen plats eller tid."
+    ],
+    "topics": [
+      {
+        "title": "Börja med planen",
+        "text": "Beskriv bilen, målet och vad du vill göra själv. Vi pratar om tid, förberedelser och vilken hjälp projektet behöver."
+      },
+      {
+        "title": "Verktyg och material",
+        "text": "Stäm av vad som behöver finnas på plats och vad som ska beställas inför arbetet."
+      },
+      {
+        "title": "Aktuella villkor",
+        "text": "Tillgång, priser, hjälp och praktiska förutsättningar bekräftas direkt med Fredrik innan något bokas."
+      }
+    ],
+    "original_url": "https://fallgrens.se/elementor-1746/",
+    "notes": "Källan har odaterade hyrpriser, tidsexempel och avtals-/försäkringstext. Dessa återges inte som nya aktuella villkor. Illustrationsbilder blir inte kundprojekt."
+  },
+  "process": [
+    {
+      "title": "Berätta om din idé",
+      "text": "Beskriv vad du vill skapa och var det ska finnas. Bilder, ungefärliga mått eller en ritning kan hjälpa oss att komma igång."
+    },
+    {
+      "title": "Gå igenom lösningen",
+      "text": "Vi pratar om funktion, form, material och omfattning. Det ger ett underlag för att diskutera pris för just ditt projekt."
+    },
+    {
+      "title": "Bestäm nästa steg",
+      "text": "När förutsättningarna är tydliga stämmer vi av vad som ska göras och hur arbetet kan planeras."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Vilket område arbetar du i?",
+      "a": "Fällgrens Finsnickeri har sin verksamhet i Kalmar län och presenterar byggservice för Kalmar och Öland. Hör av dig med plats och uppdrag så stämmer vi av förutsättningarna."
+    },
+    {
+      "q": "Kan jag beställa något efter egna mått och idéer?",
+      "a": "Ja, skräddarsydda lösningar är en del av verksamheten. Det kan gälla en möbel, förvaring eller annan inredning. Beskriv vad du behöver så pratar vi vidare."
+    },
+    {
+      "q": "Vad är bra att skicka med i en förfrågan?",
+      "a": "Berätta om funktion, plats, stil och ungefärliga mått. Bilder eller ritningar kan du bifoga i mejlet till fredrik@fallgrens.se."
+    },
+    {
+      "q": "Vad kostar ett specialtillverkat arbete?",
+      "a": "Pris sätts individuellt efter projektets omfattning och önskemål. Kontakta Fredrik med ditt underlag för att prata om en offert."
+    },
+    {
+      "q": "Kan jag handla produkter direkt här?",
+      "a": "Den här versionen visar originalsortimentet och låter dig sammanställa en produktförfrågan. För ett direkt köp använder du länken till Fällgrens originalwebbshop och dess aktuella villkor."
+    },
+    {
+      "q": "Hur börjar jag med Campervan Haven?",
+      "a": "Kontakta Fredrik och beskriv bilen, projektet och tidsplanen. Verkstadsplats, material, hjälp, aktuellt pris och villkor stäms av före en bokning."
+    },
+    {
+      "q": "Är förfrågningslistan en beställning?",
+      "a": "Nej. Listan och formuläret förbereder ett mejlutkast. Du granskar, bifogar eventuellt underlag och skickar själv. Ingenting skickas automatiskt och ingen beställning görs."
+    }
+  ],
+  "privacy": {
+    "paragraphs": [
+      "Den här versionen har inget anslutet formulär- eller betalsystem. Uppgifterna används för att förbereda ett mejlutkast till fredrik@fallgrens.se. Du granskar och skickar själv.",
+      "Formulärtext och förfrågningslista finns bara i den öppna sidan och sparas inte i webbläsarens lokala lagring. Bilder och typsnitt ingår i filpaketet. Ingen analys, annonsering eller inbäddad karta används.",
+      "När du öppnar originalwebbshoppen, en annan extern länk eller ett mejlprogram används den tjänstens funktioner och villkor. Frågor om en skickad förfrågan kan ställas direkt till Fredrik Fällgren."
+    ]
+  },
+  "notes": {
+    "identity": "Fällgrens Finsnickeri är offentligt verksamhetsnamn. Registeridentifieringen gäller enskild näringsidkare Fällgren,Fredrik; inget personligt organisationsnummer eller födelsedatum publiceras.",
+    "postcode": "Använd38891:ordinarie kontaktsida +Ratsit/Hitta. Footer38894 är motstridig och förs inte över.",
+    "socials": "Originalets Instagramlänk använder ett numeriskt kontoid, inte ett verifierat publikt användarnamn. Inget nytt socialt profilnamn hittas på.",
+    "pricing": "Priser och lagertext finns endast som källobservation i produktmetadata och ska inte användas som nya löften. Original JSON-LD säger InStock även när synlig text säger Beställningsvara.",
+    "excluded": "Ingen ROT-sats, intygad behörighet, certifiering, garanti, svarstid, gratis offert, kundomdöme eller påhittat projekt."
+  }
+}

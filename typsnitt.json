@@ -1,0 +1,17 @@
+[
+  {
+    "file": "fonts/display.ttf",
+    "family": "Bitter",
+    "weight": 700,
+    "source_url": "https://fonts.gstatic.com/s/bitter/v42/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYCL8.ttf",
+    "license": "SIL Open Font License",
+    "sha256": "266d6ec27877c5c2b5840d1ab5edd0fc1eeb686c6d820b320e7b35e0f62b3e65"
+  },
+  {
+    "file": "fonts/body.woff2",
+    "family": "DM Sans",
+    "source_url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+    "license": "SIL Open Font License",
+    "sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543"
+  }
+]
